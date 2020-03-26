@@ -1,5 +1,12 @@
-# Compiled class file
+# build
+*.apk
+*.ap_
+*.dex
 *.class
+bin/
+gen/
+build/
+out/
 
 # Log file
 *.log
@@ -9,6 +16,12 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+
+##----------idea----------
+*.iml
+.idea/
+*.ipr
+*.iws
 
 # Package Files #
 *.jar
